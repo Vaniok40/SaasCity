@@ -1,0 +1,80 @@
+@media only screen and (max-width: 950px) {
+  .phone1 {
+    display: none;
+  }
+  .phone2 {
+    display: none;
+  }
+  .ultimate-app {
+    text-align: center;
+  }
+
+  .with-the {
+    text-align: center;
+  }
+
+  .get-it {
+    text-align: center;
+  }
+
+  .why > img {
+    display: none;
+  }
+
+  .g1 {
+	top: 35%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+  }
+  .g2 {
+    top: 60%;
+    left: 39%;
+    transform: translate(-50%, -50%);
+  }
+
+  .a1 {
+    top: 35%;
+    left: 50%;
+    transform: translate(95%, -50%);
+  }
+  .a2 {
+    top: 60%;
+    left: 52%;
+    transform: translate(95%, -50%);
+  }
+
+  .lg {
+    font-size: 10px;
+    margin-left: 20px;
+  }
+
+  .feedback {
+    background-image: none;
+  }
+
+  .back1 {
+    display: none;
+  }
+
+  .back2 {
+    display: none;
+  }
+
+  .back3 {
+    display: none;
+  }
+
+  .nav-item{
+	  margin-left: 45px;
+  }
+
+  .input{
+	width: 400px;
+    height: 25px;
+  }
+
+  .subscribe-button{
+	width: 200px;
+    height: 100px;
+  }
+}

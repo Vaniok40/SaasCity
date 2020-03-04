@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1339px) {
+	.nav-item{
+        font-size: 18px;
+        margin-left: 60px;
+    }
+
+    .nav-item-button{
+        width: 100px;
+    }
+
+    .nav-list{
+        grid-template-columns: 28% 1fr;
+    }
+}
